@@ -1,5 +1,5 @@
 # Cliente gRPC
-Esse é um cliente gRPC simples que se comunica com o servidor disponível no repositório https://github.com/pepeu120/UserServiceRpc
+Esse é um cliente gRPC simples que se comunica com o servidor disponível no repositório https://github.com/pepeu120/UserServiceRpc.
 O cliente foi desenvolvido para fins de aprendizado na disciplina de Sistemas Distribuídos.
 
 ## Como usar
